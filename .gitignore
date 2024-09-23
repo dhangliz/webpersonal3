@@ -1,0 +1,12 @@
+# Ignorar archivos de configuración personal
+*.env
+*.config
+
+# Ignorar archivos de compilación
+/build/
+*.class
+*.pyc
+
+# Ignorar dependencias de Python
+/venv/
+/__pycache__/
